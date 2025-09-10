@@ -24,7 +24,5 @@ The goal was to explore racing strategies, team performance, and driver comparis
    ```bash
    pip install fastf1 pandas numpy matplotlib seaborn
 
-2. Open the Jupyter Notebooks:
-   ``bash 
-   jupyter notebook FastF1_Project.ipynb
+2. Open the Jupyter Notebooks
 
